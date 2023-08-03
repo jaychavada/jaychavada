@@ -1,4 +1,4 @@
-![image](https://github.com/jaychavada/jaychavada/assets/115369625/d539820d-9ed6-47ea-a0b8-f5bcc43744c8)
+![Black Blue Simple Gaming Banner Landscape-min](https://github.com/jaychavada/jaychavada/assets/115369625/aa4987e9-fc7c-40d8-9192-e40f236a0e59)
 
 # 💫 About Me:
 🌱 I’m currently learning :HTML CSS Python <br>📫 How to reach me : chavdajay243@gmail.com <br>
