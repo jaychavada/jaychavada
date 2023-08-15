@@ -1,6 +1,6 @@
 ![image](https://github.com/jaychavada/jaychavada/assets/115369625/2906c273-7879-4c3f-a054-e6302b40601b)
 # 💫 About Me:
-🌱 I’m currently learning :HTML CSS Python <br>📫 How to reach me : chavdajay243@gmail.com <br>
+🌱 I’m currently learning :JavaScript <br>📫 How to reach me : chavdajay243@gmail.com <br>
 ![Daily Art - Geometric Animations _ 171119](https://github.com/jaychavada/jaychavada/assets/115369625/79c83c8a-a70c-475c-8764-f61821ae9e20)
 
 ## 🌐 Socials:
