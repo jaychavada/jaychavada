@@ -1,3 +1,5 @@
+![github-header-image (1)](https://github.com/jaychavada/jaychavada/assets/115369625/1b995d52-33b2-469e-97aa-6df356052635)
+<br>
 <br clear="both">
 
 <img align="right" height="450" src="https://cdn.dribbble.com/users/37649/screenshots/14437038/media/36fd5a9eadaa84609d252dfa3dead711.gif"  />
@@ -7,9 +9,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/jay-chavada-a48246251" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="chavdajay243@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://instagram.com/_jaychavada_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
