@@ -1,4 +1,5 @@
-![github-header-image (1)](https://github.com/jaychavada/jaychavada/assets/115369625/1b995d52-33b2-469e-97aa-6df356052635)
+![github-header-image (1)](https://github.com/jaychavada/jaychavada/assets/115369625/4de29cf2-582d-4db6-8d6e-96e692f0adcb)
+
 <br>
 <br clear="both">
 
