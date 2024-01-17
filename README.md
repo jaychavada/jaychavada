@@ -1,7 +1,7 @@
 ![github-header-image (1)](https://github.com/jaychavada/jaychavada/assets/115369625/4de29cf2-582d-4db6-8d6e-96e692f0adcb)
 <br>
 
-- 🌱 I’m currently learning ** JAVASCRIPT & PHP **
+- 🌱 I’m currently learning ** ReactJs **
 
 - 📫 How to reach me **chavdajay243@gmail.com**
 
